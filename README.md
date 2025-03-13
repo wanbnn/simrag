@@ -11,7 +11,7 @@ SimRag (“Simple Retrieval-Augmented Generation”) é uma biblioteca leve e ef
 - **Fácil Integração**: Projetado para ser simples e direto ao uso.
 
 ## Instalação
-```powershell
+```plaintext
 pip install https://raw.githubusercontent.com/wanbnn/simrag/refs/heads/main/dist/simrag-0.1.0-py2.py3-none-any.whl
 ```
 
