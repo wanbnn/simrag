@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+rag/__init__.py
+rag/simrag.py
+simrag.egg-info/PKG-INFO
+simrag.egg-info/SOURCES.txt
+simrag.egg-info/dependency_links.txt
+simrag.egg-info/requires.txt
+simrag.egg-info/top_level.txt
